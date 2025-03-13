@@ -1,0 +1,12 @@
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.AssemblyInfoInputs.cache
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.AssemblyInfo.cs
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.csproj.CoreCompileInputs.cache
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.sourcelink.json
+D:\Works\pp-cs-study\UsefulValues\bin\Debug\net8.0\UsefulValues.deps.json
+D:\Works\pp-cs-study\UsefulValues\bin\Debug\net8.0\UsefulValues.dll
+D:\Works\pp-cs-study\UsefulValues\bin\Debug\net8.0\UsefulValues.pdb
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.dll
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\refint\UsefulValues.dll
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\UsefulValues.pdb
+D:\Works\pp-cs-study\UsefulValues\obj\Debug\net8.0\ref\UsefulValues.dll
