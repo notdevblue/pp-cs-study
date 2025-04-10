@@ -1,0 +1,15 @@
+D:\Works\pp-cs-study\item10\item10_3\bin\Debug\net8.0\item10_3.exe
+D:\Works\pp-cs-study\item10\item10_3\bin\Debug\net8.0\item10_3.deps.json
+D:\Works\pp-cs-study\item10\item10_3\bin\Debug\net8.0\item10_3.runtimeconfig.json
+D:\Works\pp-cs-study\item10\item10_3\bin\Debug\net8.0\item10_3.dll
+D:\Works\pp-cs-study\item10\item10_3\bin\Debug\net8.0\item10_3.pdb
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.AssemblyInfoInputs.cache
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.AssemblyInfo.cs
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.csproj.CoreCompileInputs.cache
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.sourcelink.json
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.dll
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\refint\item10_3.dll
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.pdb
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\item10_3.genruntimeconfig.cache
+D:\Works\pp-cs-study\item10\item10_3\obj\Debug\net8.0\ref\item10_3.dll
